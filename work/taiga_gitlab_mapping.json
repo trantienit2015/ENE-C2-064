@@ -1,0 +1,20 @@
+{
+  "template_id": "ENE-C2-064",
+  "scaffold_issue_iid": 2305,
+  "project_id": 2618,
+  "synced_at": "2026-07-18T17:04:00+07:00",
+  "mapping": [
+    {"gitlab_iid": 1, "taiga_ref": 97141, "taiga_id": 99288, "title": "Design docs/02_design.md"},
+    {"gitlab_iid": 2, "taiga_ref": 97142, "taiga_id": 99289, "title": "State schema src/schemas/state.py"},
+    {"gitlab_iid": 3, "taiga_ref": 97143, "taiga_id": 99290, "title": "Node: InputValidate"},
+    {"gitlab_iid": 4, "taiga_ref": 97144, "taiga_id": 99291, "title": "Node: EvidenceExtract"},
+    {"gitlab_iid": 5, "taiga_ref": 97145, "taiga_id": 99292, "title": "Node: Reconcile"},
+    {"gitlab_iid": 6, "taiga_ref": 97146, "taiga_id": 99293, "title": "Node: BriefRender"},
+    {"gitlab_iid": 7, "taiga_ref": 97147, "taiga_id": 99294, "title": "Node: OutputValidate"},
+    {"gitlab_iid": 8, "taiga_ref": 97148, "taiga_id": 99295, "title": "Graph composition src/graph/graph.py"},
+    {"gitlab_iid": 9, "taiga_ref": 97149, "taiga_id": 99296, "title": "Test spec docs/03_test_spec.md"},
+    {"gitlab_iid": 10, "taiga_ref": 97150, "taiga_id": 99297, "title": "Tests (unit)"},
+    {"gitlab_iid": 11, "taiga_ref": 97151, "taiga_id": 99298, "title": "Tests (integration + proof_of_boundary)"},
+    {"gitlab_iid": 12, "taiga_ref": 97152, "taiga_id": 99299, "title": "Operation guide docs/07_operation_guide.md"}
+  ]
+}
